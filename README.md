@@ -1,14 +1,14 @@
+# Proyek TodoApps
+
 ## Nama : Peara Zahida HS
 ## NPM : 21552011071
 ## Kelas : TIFRP221PC
 
-# Proyek TodoApps
-
 ## Ringkasan
-TodoApps adalah aplikasi sederhana untuk mengelola tugas (daftar tugas), memungkinkan pengguna mencatat dan mengelola daftar tugas mereka secara efisien.
+TodoApps adalah aplikasi sederhana untuk mengelola daftar catatan, memungkinkan pengguna mencatat dan mengelola daftar catatan mereka secara efisien.
 
 ## Fitur Utama
-1. **Dasbor:**
+1. **Dashboard:**
  - Menampilkan pesan "Selamat Datang, Nama" untuk pengguna yang login.
  - Menyediakan opsi Logout untuk mengakhiri sesi pengguna.
 
