@@ -1,3 +1,7 @@
+## Nama : Peara Zahida HS
+## NPM : 21552011071
+## Kelas : TIFRP221PC
+
 # Proyek TodoApps
 
 ## Ringkasan
@@ -23,7 +27,3 @@ TodoApps adalah aplikasi sederhana untuk mengelola tugas (daftar tugas), memungk
  - Menampilkan catatan yang ditambahkan sebelumnya.
  - Memberikan opsi untuk Menambahkan Catatan Terjadwal baru.
 
-## Penggunaan
-Untuk menggunakan aplikasi ini, pastikan Anda memiliki lingkungan pengembangan yang kompatibel dengan Java dan Maven. Ikuti langkah-langkah berikut untuk menjalankan aplikasi:
-
-1. Kloning repositori dari GitHub:
